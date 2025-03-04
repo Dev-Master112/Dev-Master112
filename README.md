@@ -1,7 +1,3 @@
-Here’s a **Python Developer** profile for **J. Roy**:  
-
----
-
 **👋 Hi, I’m J. Roy**  
 🚀 **Senior Python Developer | AI & Data Engineering Enthusiast**  
 
@@ -21,17 +17,9 @@ Here’s a **Python Developer** profile for **J. Roy**:
 **💞️ I’m looking to collaborate on...**  
 - AI-powered applications & data-driven solutions  
 - Open-source Python libraries & frameworks  
-- Scalable backend systems & APIs  
-
-**📫 How to reach me...**  
-- Email: [your.email@example.com]  
-- LinkedIn: [linkedin.com/in/yourprofile]  
+- Scalable backend systems & APIs
 
 **😄 Pronouns:** He/Him  
 
 **⚡ Fun fact:**  
 I automate tasks so well, sometimes I forget what manual work feels like! 🐍🚀  
-
----
-
-Let me know if you'd like any modifications! 😊
